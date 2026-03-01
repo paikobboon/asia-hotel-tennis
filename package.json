@@ -1,0 +1,44 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "asia-hotel-tennis",
+  "version": "1.0.0",
+  "title": "Asia Hotel Tennis Court",
+  "description": "Check tennis court availability at Asia Hotel Bangkok",
+  "icon": "extension-icon.png",
+  "author": "paipiyapat",
+  "categories": ["Other"],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "check-court",
+      "title": "Check Court Availability",
+      "description": "View all time slots for a specific date with availability status",
+      "mode": "view"
+    },
+    {
+      "name": "find-available",
+      "title": "Find Available Slots",
+      "description": "Find available tennis court slots across the next 7 days",
+      "mode": "view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "1.84.12",
+    "@raycast/utils": "1.18.0"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "1.0.11",
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "eslint": "8.57.1",
+    "prettier": "3.3.3",
+    "typescript": "5.6.3"
+  },
+  "scripts": {
+    "build": "ray build",
+    "dev": "ray develop",
+    "fix-lint": "ray lint --fix",
+    "lint": "ray lint",
+    "publish": "npx @raycast/api@latest publish"
+  }
+}
