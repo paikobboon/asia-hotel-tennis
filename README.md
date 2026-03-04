@@ -6,8 +6,8 @@ Check tennis court availability at Asia Hotel Bangkok directly from Raycast.
 
 - **Check Court Availability** — Day view with all slots grouped by morning, afternoon, and evening sections, with a date picker to browse any day
 - **Find Available Slots** — Week overview showing open slots across the next 7 days at a glance
-- **Filter toggle** (`Cmd+Shift+F`) to show available slots only
-- **Open booking website** or copy slot info to clipboard
+- Filter to show available slots only
+- Open booking website directly from Raycast
 
 ## Commands
 
