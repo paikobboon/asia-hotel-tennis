@@ -1,25 +1,29 @@
-# Asia Hotel Tennis Court – Raycast Extension
+# Asia Hotel Tennis Court
 
-Check tennis court availability at Asia Hotel Bangkok directly from [Raycast](https://raycast.com). Skip the clunky booking website and instantly see what's open.
+Check tennis court availability at Asia Hotel Bangkok directly from Raycast.
+
+## Features
+
+- **Check Court Availability** — Day view with all slots grouped by morning, afternoon, and evening sections, with a date picker to browse any day
+- **Find Available Slots** — Week overview showing open slots across the next 7 days at a glance
+- **Filter toggle** (`Cmd+Shift+F`) to show available slots only
+- **Open booking website** or copy slot info to clipboard
 
 ## Commands
 
-**Check Court Availability** — View all time slots for a specific date, grouped by morning/afternoon/evening. Toggle to show available only with `Cmd+Shift+F`.
+| Command | Description |
+| --- | --- |
+| Check Court Availability | Day view with all slots grouped by time of day |
+| Find Available Slots | Week view showing only open slots |
 
-**Find Available Slots** — See all open slots across the next 7 days at a glance.
+## Court Info
 
-## Setup
-
-```
-npm install
-npm run dev
-```
-
-Then open Raycast and search for "Check Court" or "Find Available".
-
-## Pricing
+- **Location:** Asia Hotel, 296 Phayathai Road, Bangkok
+- **Hours:** 07:00–22:00
 
 | Time | Rate |
-|------|------|
+| --- | --- |
 | 07:00–18:00 | 450 THB/hr |
 | 18:00–22:00 | 600 THB/hr |
+
+- **Booking:** [Asia Hotel Tennis Court](https://asiahotel.co.th/tenniscourt/)
