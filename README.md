@@ -26,4 +26,4 @@ Check tennis court availability at Asia Hotel Bangkok directly from Raycast.
 | 07:00–18:00 | 450 THB/hr |
 | 18:00–22:00 | 600 THB/hr |
 
-- **Booking:** [Asia Hotel Tennis Court](https://asiahotel.co.th/tenniscourt/)
+- **Booking:** [Asia Hotel Tennis Court](http://tennis.asiagrouponline.com:5300/calendar)
